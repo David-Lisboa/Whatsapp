@@ -2,4 +2,7 @@
     <string name="app_name">Whatsapp</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="contact_screen">Contact Screen</string>
+    <string name="group_chat_screen">Group Chat Screen</string>
+    <string name="chat_screen">Chat Screen</string>
 </resources>

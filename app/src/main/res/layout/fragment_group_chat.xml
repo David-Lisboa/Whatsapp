@@ -9,9 +9,9 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Group Chat Screen"
+        android:text="@string/group_chat_screen"
         android:layout_centerInParent="true"
-        android:textsize="20dp"
+        android:textSize="30sp"
         android:textStyle="bold"/>
 
 </RelativeLayout>
