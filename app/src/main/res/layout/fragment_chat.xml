@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
@@ -7,11 +7,17 @@
 
     <!-- TODO: Update blank fragment layout -->
     <TextView
+<<<<<<< HEAD
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="@string/chat_screen"
         android:layout_centerInParent="true"
         android:textSize="40sp"
         android:textStyle="bold"/>
+=======
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="@string/hello_blank_fragment" />
+>>>>>>> parent of aec7d74 (TabSwitcher criado e inplementado, Fragments inplementados)
 
-</RelativeLayout>
+</FrameLayout>

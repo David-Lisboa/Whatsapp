@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
+<<<<<<< HEAD
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+=======
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+>>>>>>> parent of aec7d74 (TabSwitcher criado e inplementado, Fragments inplementados)
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
@@ -10,6 +14,7 @@
 
     <!-- TODO: Update blank fragment layout -->
     <TextView
+<<<<<<< HEAD
         android:id="@+id/TextViwer"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
@@ -21,3 +26,10 @@
         android:textStyle="bold" />
 
 </LinearLayout>
+=======
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="@string/hello_blank_fragment" />
+
+</FrameLayout>
+>>>>>>> parent of aec7d74 (TabSwitcher criado e inplementado, Fragments inplementados)
